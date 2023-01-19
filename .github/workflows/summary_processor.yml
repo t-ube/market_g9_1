@@ -6,17 +6,6 @@ on:
 jobs:
   build:
     name: Process crawler
-    permissions:
-      actions: write
-      checks: write
-      contents: write
-      deployments: write
-      issues: write
-      packages: write
-      pull-requests: write
-      repository-projects: write
-      security-events: write
-      statuses: write
     runs-on: ubuntu-latest
     env:
       SUPABASE_URL: ${{secrets.SUPABASE_URL}}
@@ -44,13 +33,3 @@ jobs:
     - name: Build data
       run: |
         python3 crawler.py
-    - name: Commit files
-      run: |
-        git config --local user.email "ube@coder.okinawa.jp"
-        git config --local user.name "Tomoyuki UBE"
-        git diff-index --quiet HEAD || git commit -m "[BOT] crawler"
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ steps.extract_branch.outputs.branch }}
