@@ -47,7 +47,6 @@ jobs:
         git config --local user.email "ube@coder.okinawa.jp"
         git config --local user.name "Tomoyuki UBE"
         git add data
-        git add dist
         git diff-index --quiet HEAD || git commit -m "[BOT] Process calc"
     - name: Push changes
       uses: ad-m/github-push-action@master
