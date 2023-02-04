@@ -1,4 +1,12 @@
 ﻿master_id,expansion,cn,card_type,sub_type,name,rarity,regulation,is_mirror
+sv-p_030_SV-P,SV-P,030/SV-P,トレーナーズ,サポート,ペパー,-,G,False
+sv-p_029_SV-P,SV-P,029/SV-P,トレーナーズ,サポート,コルサ,-,G,False
+sv-p_028_SV-P,SV-P,028/SV-P,ポケモン,草,ブロロン,-,G,False
+sv-p_027_SV-P,SV-P,027/SV-P,ポケモン,草,ガケガニex,-,G,False
+sv-p_026_SV-P,SV-P,026/SV-P,ポケモン,闘,ハカドッグ,-,G,False
+sv-p_025_SV-P,SV-P,025/SV-P,ポケモン,雷,モココ,-,G,False
+sv-p_024_SV-P,SV-P,024/SV-P,ポケモン,炎,ガーディ,-,G,False
+sv-p_023_SV-P,SV-P,023/SV-P,ポケモン,草,ミニーブ,-,G,False
 sv-p_012_SV-P,SV-P,012/SV-P,トレーナーズ,サポート,ネモ,-,G,False
 sv-p_011_SV-P,SV-P,011/SV-P,トレーナーズ,グッズ,ポケモンいれかえ,-,G,False
 sv-p_010_SV-P,SV-P,010/SV-P,トレーナーズ,グッズ,モンスターボール,-,G,False
