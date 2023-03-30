@@ -46,7 +46,7 @@ sv-p_GRA,SV-P,GRA,エネルギー,草,基本草エネルギー,-,-,False
 sv-p_LIG,SV-P,LIG,エネルギー,雷,基本雷エネルギー,-,-,False
 sv-p_MET,SV-P,MET,エネルギー,鋼,基本鋼エネルギー,-,-,False
 sv-p_PSY,SV-P,PSY,エネルギー,超,基本超エネルギー,-,-,False
-sv-p_SV-P,SV-P,SV-P,トレーナーズ,グッズ,勝利のしるし(2位),-,G,False
-sv-p_SV-P,SV-P,SV-P,トレーナーズ,グッズ,勝利のしるし(3位),-,G,False
-sv-p_SV-P,SV-P,SV-P,トレーナーズ,グッズ,勝利のしるし(優勝),-,G,False
+sv-p_SV-P_42954,SV-P,SV-P,トレーナーズ,グッズ,勝利のしるし(2位),-,G,False
+sv-p_SV-P_42955,SV-P,SV-P,トレーナーズ,グッズ,勝利のしるし(3位),-,G,False
+sv-p_SV-P_42953,SV-P,SV-P,トレーナーズ,グッズ,勝利のしるし(優勝),-,G,False
 sv-p_WAT,SV-P,WAT,エネルギー,水,基本水エネルギー,-,-,False
