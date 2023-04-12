@@ -39,6 +39,14 @@ sv-p_046_SV-P,SV-P,046/SV-P,トレーナーズ,サポート,ネモ,-,G,False
 sv-p_047_SV-P,SV-P,047/SV-P,トレーナーズ,サポート,ネモ,-,G,False
 sv-p_048_SV-P,SV-P,048/SV-P,ポケモン,雷,ミライドン,-,G,False
 sv-p_049_SV-P,SV-P,049/SV-P,ポケモン,闘,コライドン,-,G,False
+sv-p_050_SV-P,SV-P,050/SV-P,ポケモン,草,クヌギダマ,-,G,False
+sv-p_051_SV-P,SV-P,051/SV-P,ポケモン,水,セゴール,-,G,False
+sv-p_052_SV-P,SV-P,052/SV-P,ポケモン,雷,ハラバリー,-,G,False
+sv-p_053_SV-P,SV-P,053/SV-P,ポケモン,闘,ヤバチャ,-,G,False
+sv-p_054_SV-P,SV-P,054/SV-P,ポケモン,草,ドジョッチ,-,G,False
+sv-p_055_SV-P,SV-P,055/SV-P,ポケモン,草,マフィティフex,-,G,False
+sv-p_056_SV-P,SV-P,056/SV-P,トレーナーズ,サポート,シュウメイ,-,G,False
+sv-p_057_SV-P,SV-P,057/SV-P,トレーナーズ,サポート,ボタン,-,G,False
 sv-p_DAR,SV-P,DAR,エネルギー,悪,基本悪エネルギー,-,-,False
 sv-p_FIG,SV-P,FIG,エネルギー,闘,基本闘エネルギー,-,-,False
 sv-p_FIR,SV-P,FIR,エネルギー,炎,基本炎エネルギー,-,-,False
@@ -48,5 +56,8 @@ sv-p_MET,SV-P,MET,エネルギー,鋼,基本鋼エネルギー,-,-,False
 sv-p_PSY,SV-P,PSY,エネルギー,超,基本超エネルギー,-,-,False
 sv-p_SV-P_42954,SV-P,SV-P,トレーナーズ,グッズ,勝利のしるし(2位),-,G,False
 sv-p_SV-P_42955,SV-P,SV-P,トレーナーズ,グッズ,勝利のしるし(3位),-,G,False
+sv-p_SV-P_43134,SV-P,SV-P,トレーナーズ,グッズ,勝利のしるし(優勝),-,G,False
+sv-p_SV-P_43135,SV-P,SV-P,トレーナーズ,グッズ,勝利のしるし(2位),-,G,False
+sv-p_SV-P_43136,SV-P,SV-P,トレーナーズ,グッズ,勝利のしるし(3位),-,G,False
 sv-p_SV-P_42953,SV-P,SV-P,トレーナーズ,グッズ,勝利のしるし(優勝),-,G,False
 sv-p_WAT,SV-P,WAT,エネルギー,水,基本水エネルギー,-,-,False
