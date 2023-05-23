@@ -1,6 +1,7 @@
 def getList():
     expansionList = [
         'SV-P',
+        'SVP1',
         'SV2D',
         'SV2P',
         'SVC',
